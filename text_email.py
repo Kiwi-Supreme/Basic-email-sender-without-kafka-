@@ -9,7 +9,7 @@ smtp_server = "smtp.gmail.com"  # Google SMTP Server
 email_from = "shivani.srivastava24.24@gmail.com"
 email_to = "shivani.srivastava24.24@gmail.com"
 
-pswd = "abpsrsirltiixjrx"
+pswd = "****************"
 
 # content of message
 
