@@ -14,7 +14,7 @@ email_from = "shivani.srivastava24.24@gmail.com"
 email_list = ["shivani.srivastava24.24@gmail.com", "shivanikhushi2004@gmail.com", "theintriguedengineer@gmail.com"]
 
 # Define the password (better to reference externally)
-pswd = "abpsrsirltiixjrx" 
+pswd = "****************" 
 
 # name the email subject
 subject = "Offer letter attached"
